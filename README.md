@@ -2,7 +2,7 @@
 
 **`Digital Nomad (Developer/Dancer/Creator)`**
 
-<h3 align="left">Northeastern Unviersity - Student; Ex-SWE intern at Amazon Redshift, S2N Health, Peloton </h3>
+<h3 align="left">Software Engineer at Amazon Redshift, ex-AWS intern, ex-S2N Health intern, ex-Peloton intern</h3>
   
 - 🚀 Software Engineer @Amazon Web Services (databases/infra systems).
 - 💼 Interested in ML training systems & RL systems
