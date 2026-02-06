@@ -158,19 +158,6 @@ My journey to CS is kind of random. Back in college, I was studying German langu
   <img src="https://i.imgur.com/SLTt4ay.png" alt="How to study when you don’t feel like it" width="300" height="300" style="border-radius: 5;">
 </a>
 
-#
-### 📊 Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yantinglai&count_private=true&show_icons=true" alt="Sundri Lai's GitHub stats" />
-</div>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yantinglai&count_private=true&show_icons=true&theme=radical" alt="Sundri Lai's GitHub stats" />
-  </a>
-</div>
-
-#
 
 <details>
  <summary><h3>👩🏻‍💻 Sundri's Coding Journey</h3></summary>
